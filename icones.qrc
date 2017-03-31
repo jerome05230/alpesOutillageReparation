@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="client">images/client.jpg</file>
+        <file alias="reparation">images/Reparation.png</file>
+        <file alias="retard">images/retard.jpg</file>
+        <file alias="supprimer">images/supprimer.svg</file>
+        <file alias="machines">images/images.jpg</file>
+        <file alias="mecano">images/meccano.jpg</file>
+        <file alias="rechercher">images/search.jpg</file>
+        <file alias="add">images/add.jpg</file>
+        <file alias="seeAll">images/toutVoir.jpg</file>
+        <file>images/printer.png</file>
+    </qresource>
+</RCC>
